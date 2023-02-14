@@ -1,5 +1,19 @@
 # HoloAutopsy
-This is a public repository for ...
+This is a public GitHub repository for the Mixed Reality Digital Autopsy project (HoloAutopsy), which serves as supplementary material for our paper titled "Working with Forensic Practitioners to Understand the Opportunities and Challenges for Mixed-Reality Digital Autopsy" for CHI Conference on Human Factors in Computing Systems 2023.
+
+
+# Instruction
+The project was built on Unity 2020.3.24f and Mixed Reality Toolkit (MRTK) 2.7.3.
+
+Steps to run the project:
+1. Open project with Unity.
+2. 
+
+# Citation
+To acknowledge this project on Mixed Reality Digital Autopsy (HoloAutopsy), please cite our paper available at https://doi.org/10.1145/3544548.3580768
 
 # Acknowledgement
-We used and customised "UnityVolumeRendering" in this project. Please refer to github.com/mlavik1/UnityVolumeRendering for license and further information. As part of this project, it uses "OpenDicom", please refer to https://sourceforge.net/projects/opendicom/ for License and more information.
+This project uses and customises "UnityVolumeRendering," which is available at github.com/mlavik1/UnityVolumeRendering. Please refer to this repository for licensing and additional information. The project also utilises "OpenDicom," which is available at https://sourceforge.net/projects/opendicom/. Please refer to this website for licensing and additional information.
+
+# Disclaimer
+- Warning: This project is a prototype for research purposes, therefore, deployment is not very seamless and you may encounter some issues. Also, it must not be used for real or commercial applications, as we do not provide any warranty of its functionality.
