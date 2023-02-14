@@ -16,4 +16,4 @@ To acknowledge this project on Mixed Reality Digital Autopsy (HoloAutopsy), plea
 This project uses and customises "UnityVolumeRendering," which is available at github.com/mlavik1/UnityVolumeRendering. Please refer to this repository for licensing and additional information. The project also utilises "OpenDicom," which is available at https://sourceforge.net/projects/opendicom/. Please refer to this website for licensing and additional information.
 
 # Disclaimer
-- Warning: This project is a prototype for research purposes, therefore, deployment is not very seamless and you may encounter some issues. Also, it must not be used for real or commercial applications, as we do not provide any warranty of its functionality.
+This is a research prototype, and deployment may not be seamless, and it is not intended for real or commercial use as there is no warranty for its functionality.
