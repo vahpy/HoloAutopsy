@@ -12,7 +12,7 @@ See full license in subfolder: Assets/VolumeRendering/LICENSE
 LGPL Version 2.1.
 Copyright (C) 2006-2007  Albert Gnandt
 See full LGPL license in subfolder: Assets/VolumeRendering/3rdparty/openDicom
-
+(Notice: Parts of the code have been modified, due to the compatibility with my code, for original code download it from the source openDICOM.net)
 
 3- SimpleITK
 Apache License 2.0
