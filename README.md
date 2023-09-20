@@ -16,7 +16,7 @@ Steps to run the project:
 To acknowledge this project on Mixed Reality Digital Autopsy (HoloAutopsy), please cite our paper available at https://doi.org/10.1145/3544548.3580768
 
 # Acknowledgement
-This project uses and customises "UnityVolumeRendering," which is available at github.com/mlavik1/UnityVolumeRendering. Please refer to this repository for licensing and additional information. The project also utilises "OpenDicom," which is available at https://sourceforge.net/projects/opendicom/. Please refer to this website for licensing and additional information.
+Please refer to Acknowledgement.txt for libraries used by this project.
 
 # Disclaimer
 This is a research prototype, and deployment may not be seamless, and it is not intended for real or commercial use as there is no warranty for its functionality.
